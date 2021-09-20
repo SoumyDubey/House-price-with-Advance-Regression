@@ -22,3 +22,8 @@ Relation of all features to Target Variable
 Determine the columns that show strong correlation to SalePrice
 1. All Numerical Features
 2. Determine Features with large correlation to SalePrice_lg
+
+# Data Wrangling / Data Munging
+1. Dropping all the freatures with weak correlation with SalePrice
+2. Convert Categorical Features to Numrical Features
+3. Correlation with all features with SalePrice including converted Categorical Features
