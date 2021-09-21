@@ -27,3 +27,7 @@ Determine the columns that show strong correlation to SalePrice
 1. Dropping all the freatures with weak correlation with SalePrice
 2. Convert Categorical Features to Numrical Features
 3. Correlation with all features with SalePrice including converted Categorical Features
+4. Check Multicollinerity
+5. Creating datasets for modeling with One Hot Encoding and StandardScaler
+
+## Modeling
