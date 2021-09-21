@@ -27,7 +27,7 @@
 1. Dropping all the freatures with weak correlation with SalePrice
 2. Convert Categorical Features to Numrical Features
 3. Correlation with all features with SalePrice including converted Categorical Features
-4. Check Multicollinerity
-5. Creating datasets for modeling with One Hot Encoding and StandardScaler
+4. Creating dataset for ML model with least multicollinearity.
+5. Standardizing categorical featuers 
 
 # Modeling Deployment
