@@ -9,17 +9,17 @@
 
 # Exploratory Data Analysis
 
-Get an overview of the feature (Numerical and Categorical) and first look on the target variable (SalePrice)
+### Get an overview of the feature (Numerical and Categorical) and first look on the target variable (SalePrice)
 1. Data Information 
 2. Distribution of the Target Variable
 3. Grouping Categorical and Numerical Features
 4. Data Cleaning (Dealing with Missing Values)
 
-Relation of all features to Target Variable
+### Relation of all features to Target Variable
 1. Numerical feature correlation coefficient to Target Variable
 2. Categorical Feature Relations with Target Varible 
 
-Determine the columns that show strong correlation to SalePrice
+### Determine the columns that show strong correlation to SalePrice
 1. All Numerical Features
 2. Determine Features with large correlation to SalePrice_lg
 
@@ -30,4 +30,4 @@ Determine the columns that show strong correlation to SalePrice
 4. Check Multicollinerity
 5. Creating datasets for modeling with One Hot Encoding and StandardScaler
 
-### Modeling
+# Modeling
