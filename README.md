@@ -30,4 +30,4 @@ Determine the columns that show strong correlation to SalePrice
 4. Check Multicollinerity
 5. Creating datasets for modeling with One Hot Encoding and StandardScaler
 
-## Modeling
+### Modeling
