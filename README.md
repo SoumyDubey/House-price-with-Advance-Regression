@@ -30,4 +30,4 @@
 4. Check Multicollinerity
 5. Creating datasets for modeling with One Hot Encoding and StandardScaler
 
-# Modeling
+# Modeling Deployment
