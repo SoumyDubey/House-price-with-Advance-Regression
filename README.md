@@ -31,3 +31,4 @@
 5. Standardizing categorical featuers 
 
 # Modeling Deployment
+1. Model Selection with GridSeachCV
