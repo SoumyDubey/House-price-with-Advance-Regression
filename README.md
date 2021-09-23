@@ -32,3 +32,4 @@
 
 # Modeling Deployment
 1. Model Selection with GridSeachCV
+2. Linear Regression
