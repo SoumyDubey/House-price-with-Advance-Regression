@@ -33,3 +33,4 @@
 # Modeling Deployment
 1. Model Selection with GridSeachCV
 2. Linear Regression
+3. Ridge Regression
