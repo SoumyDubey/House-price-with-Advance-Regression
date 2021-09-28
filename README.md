@@ -35,3 +35,10 @@
 2. Linear Regression
 3. Ridge Regression 
 4. Lasso Regression
+5. Elastic Net
+6. Stochastic Grandient Descent
+7. DecisionTressRegressor
+8. RandomForestRegressor
+9. KNN Regressor
+10. GaussianProcessRegressor
+11. Comparison plot: RMSE of all models
