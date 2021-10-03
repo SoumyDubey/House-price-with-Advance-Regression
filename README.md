@@ -42,3 +42,8 @@
 9. KNN Regressor
 10. GaussianProcessRegressor
 11. Comparison plot: RMSE of all models
+
+# Ensembled Learning
+1. Basic Ensembled Learning
+2. Advanced Ensembled Techniques (stacking, blending, bagging, boosting)
+3. Algorithms based on Bagging and Boosting
