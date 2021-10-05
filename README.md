@@ -44,6 +44,8 @@
 11. Comparison plot: RMSE of all models
 
 # Ensembled Learning
-1. Basic Ensembled Learning
-2. Advanced Ensembled Techniques (stacking, blending, bagging, boosting)
-3. Algorithms based on Bagging and Boosting
+1. Algotithms based on Boosting.
+2. Gradient Boosting (GBM)
+3. Extreme Gradient Boosting (XGBoost)
+4. Light GMB (LGBM)
+5. CatBoost
